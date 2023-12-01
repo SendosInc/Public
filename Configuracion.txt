@@ -1,1 +1,1 @@
-LA ESP32 ES UNA MIERDA
+Prueba con HTTPS via Ethernet
